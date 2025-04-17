@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-x&k5!3obb3_f(m)77=1fk=$e63^*+u)-$#t$jh73ncbd&7c-fd
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['bug-free-space-enigma-rvp4gjwwq5h5xgj-8000.app.github.dev', 'localhost']
 
 
 # Application definition
